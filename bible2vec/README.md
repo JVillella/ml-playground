@@ -25,4 +25,4 @@ source venv/bin/activate        # Activate virtual environment
 pip install -r requirements.txt # Install dependencies
 ```
 
-This repo contains a Bible dataset (King James) but you will need to run [wiki2vec](...) to create the Word2vec model.
+This repo contains a Bible dataset (King James) but you will need to run [wiki2vec](../wiki2vec) to create the Word2vec model.
