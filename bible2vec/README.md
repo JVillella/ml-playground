@@ -1,4 +1,5 @@
-# Bible2Vec
+# Bible2vec
+
 Use [Word2vec](https://en.wikipedia.org/wiki/Word2vec) to find similar scriptures. Here is a sample output:
 
 >In the beginning God created the heaven and the earth. ~ Genesis 1:1
