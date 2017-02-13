@@ -1,0 +1,4 @@
+jupyter==1.0.0
+numpy==1.11.1
+gensim==0.13.3
+nltk==3.2.1
