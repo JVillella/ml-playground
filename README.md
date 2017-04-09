@@ -7,3 +7,6 @@ Jupyter notebook to train a Word2vec model on a Wikipedia dataset in any languag
 
 ### [Bible2vec](./bible2vec)
 Use Word2vec to find related scriptures.
+
+### [GAN - Gaussian Distribution](./gan-gaussian-dist)
+Teach a GAN to sample from a Gaussian Distribution.
